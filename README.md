@@ -9,7 +9,7 @@
 
 ### Languages:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/cc#-original.svg">
+  <img align="center" alt="Joao-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg">
 </div>
   
   ##
